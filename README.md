@@ -24,3 +24,6 @@ Run: qsub run.pbs
 
 
 The job script in each version is named by "runXXX.pbs", users enter the command"qsub runXXX.pbs" could submit jobs to the backend nodes. The result is written into a txt file named by "resultXXX.txt" anda text file called "label_result.txt" is created which shows the memership of points.
+
+
+Datasets employed in this project are listed above. 
